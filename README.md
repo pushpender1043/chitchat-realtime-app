@@ -20,7 +20,7 @@
 
 ----
 
-## 🎩 Introduction
+### 🎩 Introduction
 
 **ChitChat** is a robust, full-stack real-time communication platform. Built using the modern MERN stack, it offers an intuitive and seamless experience for instant text messaging, peer-to-peer video/audio calls, and media sharing. The UI is heavily optimized for all devices, bringing fluid animations and a premium feel to everyday conversations.
 
